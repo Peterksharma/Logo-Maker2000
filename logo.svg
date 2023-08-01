@@ -1,0 +1,5 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="150" cy="100" r="75" x="150" y="111" font-size="22" text-anchor="middle" fill="Black"/>
+        <text x="150" y="111" font-size="22" text-anchor="middle" fill="White">JHS</text>
+        </svg>

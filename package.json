@@ -1,7 +1,8 @@
 {
-  "name": "week-10",
-  "version": "1.0.0",
-  "description": "## Your Task",
+  "name": "logo-maker-3000",
+
+  "version": "1.33.7",
+  "description": "Logo Maker 3000 makes logos",
   "main": "index.js",
   "scripts": {
     "start": "index.js",
